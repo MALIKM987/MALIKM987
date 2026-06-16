@@ -26,7 +26,7 @@ STM32L432KC-based cycling computer using:
 
 Repository:
 
-[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/MALIKM987/Bicycle-Computer)---
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/MALIKM987/Bicycle-Computer)
 
 ---
 
@@ -44,7 +44,7 @@ Features:
 
 Repository:
 
-[![Repository](https://img.shields.io/badge/GitHub-FPGA_Audio_Platform-blue?logo=github)](https://github.com/MALIKM987/fpga-audio-platform)---
+[![Repository](https://img.shields.io/badge/GitHub-FPGA_Audio_Platform-blue?logo=github)](https://github.com/MALIKM987/fpga-audio-platform)
 
 ---
 
@@ -58,7 +58,7 @@ Class AB amplifier based on:
 
 Repository:
 
-[![Repository](https://img.shields.io/badge/GitHub-3W_Audio_Amplifier-blue?logo=github)](https://github.com/MALIKM987/Wzmacniacz_3W)---
+[![Repository](https://img.shields.io/badge/GitHub-3W_Audio_Amplifier-blue?logo=github)](https://github.com/MALIKM987/Wzmacniacz_3W)
 
 ---
 
