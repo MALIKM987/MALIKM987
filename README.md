@@ -1,16 +1,89 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**MALIKM987/MALIKM987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+Electronics Engineer and M.Sc. student in Electronics and Telecommunications (Embedded Systems) at AGH University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in:
+
+- Embedded Systems
+- FPGA and DSP
+- PCB Design
+- Analog and Digital Electronics
+- Signal Processing
+
+---
+
+## Featured Projects
+
+### 🚲 Bicycle Computer
+
+STM32L432KC-based cycling computer using:
+
+- BMI160 IMU
+- BME280 environmental sensor
+- SSD1306 OLED display
+
+Repository:
+
+https://github.com/MALIKM987/Bicycle-Computer
+
+---
+
+### 🎵 FPGA Signal Platform
+
+Custom SoC FPGA platform based on Tang Nano 20K.
+
+Features:
+
+- Custom soft-core CPU
+- DSP accelerator
+- FFT / IFFT processing
+- UART communication
+- Verilog HDL
+
+Repository:
+
+https://github.com/MALIKM987/fpga-audio-platform
+
+---
+
+### 🔊 3W Audio Amplifier
+
+Class AB amplifier based on:
+
+- MJL4281A
+- BD139
+- BC557C
+
+Repository:
+
+https://github.com/MALIKM987/Wzmacniacz_3W
+
+---
+
+## Technologies
+
+### Embedded
+
+STM32 • C • UART • SPI • I²C
+
+### FPGA
+
+Verilog HDL • DSP • FFT/IFFT • Tang Nano 20K
+
+### Electronics
+
+Altium Designer • LTspice • Cadence Virtuoso • PCB Design
+
+### Programming
+
+C • C++ • Python • MATLAB
+
+---
+
+## Contact
+
+📍 Kraków, Poland
+
+📧 molik.maciek@gmail.com
