@@ -26,8 +26,7 @@ STM32L432KC-based cycling computer using:
 
 Repository:
 
-🔗 [Repository](https://github.com/MALIKM987/Bicycle-Computer)
----
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/MALIKM987/Bicycle-Computer)---
 
 ### 🎵 SoC FPGA Signal Processing Platform
 
