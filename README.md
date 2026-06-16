@@ -114,4 +114,6 @@ Features:
 
 📍 Kraków, Poland
 
-📧 molik.maciek@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/twoj-linkedin
+
+🌐 GitHub: https://github.com/MALIKM987
