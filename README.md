@@ -26,11 +26,10 @@ STM32L432KC-based cycling computer using:
 
 Repository:
 
-https://github.com/MALIKM987/Bicycle-Computer
-
+🔗 [Repository](https://github.com/MALIKM987/Bicycle-Computer)
 ---
 
-### 🎵 FPGA Signal Platform
+### 🎵 SoC FPGA Signal Processing Platform
 
 Custom SoC FPGA platform based on Tang Nano 20K.
 
@@ -44,8 +43,7 @@ Features:
 
 Repository:
 
-https://github.com/MALIKM987/fpga-audio-platform
-
+🔗 [Repository](https://github.com/MALIKM987/fpga-audio-platform)
 ---
 
 ### 🔊 3W Audio Amplifier
@@ -58,8 +56,7 @@ Class AB amplifier based on:
 
 Repository:
 
-https://github.com/MALIKM987/Wzmacniacz_3W
-
+🔗 [Repository](https://github.com/MALIKM987/Wzmacniacz_3W)
 ---
 
 ## Contact
