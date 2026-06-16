@@ -16,7 +16,7 @@ Interested in:
 
 ## Featured Projects
 
-### 🚲 Bicycle Computer
+### Bicycle Computer
 
 STM32L432KC-based cycling computer using:
 
@@ -30,7 +30,7 @@ Repository:
 
 ---
 
-### 🎵 SoC FPGA Signal Processing Platform
+### SoC FPGA Signal Processing Platform
 
 Custom SoC FPGA platform based on Tang Nano 20K.
 
@@ -48,7 +48,7 @@ Repository:
 
 ---
 
-### 🔊 3W Audio Amplifier
+### 3W Audio Amplifier
 
 Class AB amplifier based on:
 
@@ -62,7 +62,7 @@ Repository:
 
 ---
 
-### ⚙️ PLC Ladder Studio
+### PLC Ladder Studio
 
 Web-based PLC ladder editor and simulator developed as a Progressive Web Application.
 
@@ -78,7 +78,7 @@ Features:
 
 ---
 
-### 📐 Field Engineer Toolkit
+### Field Engineer Toolkit
 
 Mobile-first engineering toolkit for field and laboratory engineers.
 
@@ -114,6 +114,6 @@ Features:
 
 📍 Kraków, Poland
 
-💼 LinkedIn: https://www.linkedin.com/in/twoj-linkedin
+💼 LinkedIn: https://www.linkedin.com/in/maciej-molik-5aa0863b6
 
 🌐 GitHub: https://github.com/MALIKM987
