@@ -94,7 +94,7 @@ Features:
 
 ---
 
-### 🔬 Design Laboratory
+### Design Laboratory
 
 Collection of electronic design projects involving circuit analysis, PCB design and technical documentation.
 
