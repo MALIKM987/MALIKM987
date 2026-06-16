@@ -62,26 +62,6 @@ https://github.com/MALIKM987/Wzmacniacz_3W
 
 ---
 
-## Technologies
-
-### Embedded
-
-STM32 • C • UART • SPI • I²C
-
-### FPGA
-
-Verilog HDL • DSP • FFT/IFFT • Tang Nano 20K
-
-### Electronics
-
-Altium Designer • LTspice • Cadence Virtuoso • PCB Design
-
-### Programming
-
-C • C++ • Python • MATLAB
-
----
-
 ## Contact
 
 📍 Kraków, Poland
